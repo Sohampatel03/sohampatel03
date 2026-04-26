@@ -1,4 +1,4 @@
-# :<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cf7f9ae9-1efc-426b-8b61-0e5cc0c469c4" /> About Me:
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cf7f9ae9-1efc-426b-8b61-0e5cc0c469c4" /> About Me:
 
 I am a Full Stack Developer specializing in the MERN stack, with hands-on experience in building scalable applications and integrating AI-driven features.<br><br>I have developed projects like an AI-powered Study Planner and a Netflix-style platform with intelligent recommendations. I enjoy solving real-world problems through code, focusing on performance, user experience, and clean architecture.<br><br>Currently, I am exploring advanced AI integrations and continuously improving my development skills.
 
